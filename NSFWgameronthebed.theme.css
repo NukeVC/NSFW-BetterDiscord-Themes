@@ -14,9 +14,9 @@
 
 :root {
     /* Edit this to change your background */
-    --background-image: url(https://cdn.discordapp.com/attachments/608848206293368832/609462787910926386/1564131311960.jpg); /* format is url(IMAGE URL HERE) */
+    --background-image: url(https://i.ytimg.com/vi/_icFtvQZDq4/maxresdefault.jpg); /* format is url(IMAGE URL HERE) */
     /* Edit this to change your friends icon picture, picture  */
-    --friends-icon: url(https://i.imgur.com/63g6Em8.jpg); /* format is url(IMAGE URL HERE) */
+    --friends-icon: url(https://images.sk-static.com/images/media/profile_images/artists/10185162/huge_avatar); /* format is url(IMAGE URL HERE) */
     /* Edit this to change your friends icon picture, position  */
     --friends-icon-position: center center; /* default: center center */
     /* Edit this to change your friends icon picture, zoom  */
